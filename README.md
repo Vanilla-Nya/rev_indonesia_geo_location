@@ -1,1 +1,3 @@
-# rev_indonesia_geo_location
+# Indonesia GeoJSON data
+
+this repo is a collection from splitted  4th administration level (village) geojson data. You can download the raw data from [HDX Indonesia Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-idn) with Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO) license. I am not own this data, just split for my own use, go to the link to download full the data.
