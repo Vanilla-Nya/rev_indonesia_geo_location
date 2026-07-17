@@ -1,0 +1,121 @@
+{
+  "districts": [
+    {
+      "folderName": "id9401_merauke",
+      "name": "MERAUKE"
+    },
+    {
+      "folderName": "id9402_jayawijaya",
+      "name": "JAYAWIJAYA"
+    },
+    {
+      "folderName": "id9403_jayapura",
+      "name": "JAYAPURA"
+    },
+    {
+      "folderName": "id9404_nabire",
+      "name": "NABIRE"
+    },
+    {
+      "folderName": "id9408_kepulauan_yapen",
+      "name": "KEPULAUAN YAPEN"
+    },
+    {
+      "folderName": "id9409_biak_numfor",
+      "name": "BIAK NUMFOR"
+    },
+    {
+      "folderName": "id9410_paniai",
+      "name": "PANIAI"
+    },
+    {
+      "folderName": "id9411_puncak_jaya",
+      "name": "PUNCAK JAYA"
+    },
+    {
+      "folderName": "id9412_mimika",
+      "name": "MIMIKA"
+    },
+    {
+      "folderName": "id9413_boven_digoel",
+      "name": "BOVEN DIGOEL"
+    },
+    {
+      "folderName": "id9414_mappi",
+      "name": "MAPPI"
+    },
+    {
+      "folderName": "id9415_asmat",
+      "name": "ASMAT"
+    },
+    {
+      "folderName": "id9416_yahukimo",
+      "name": "YAHUKIMO"
+    },
+    {
+      "folderName": "id9417_pegunungan_bintang",
+      "name": "PEGUNUNGAN BINTANG"
+    },
+    {
+      "folderName": "id9418_tolikara",
+      "name": "TOLIKARA"
+    },
+    {
+      "folderName": "id9419_sarmi",
+      "name": "SARMI"
+    },
+    {
+      "folderName": "id9420_keerom",
+      "name": "KEEROM"
+    },
+    {
+      "folderName": "id9426_waropen",
+      "name": "WAROPEN"
+    },
+    {
+      "folderName": "id9427_supiori",
+      "name": "SUPIORI"
+    },
+    {
+      "folderName": "id9428_mamberamo_raya",
+      "name": "MAMBERAMO RAYA"
+    },
+    {
+      "folderName": "id9429_nduga",
+      "name": "NDUGA"
+    },
+    {
+      "folderName": "id9430_lanny_jaya",
+      "name": "LANNY JAYA"
+    },
+    {
+      "folderName": "id9431_mamberamo_tengah",
+      "name": "MAMBERAMO TENGAH"
+    },
+    {
+      "folderName": "id9432_yalimo",
+      "name": "YALIMO"
+    },
+    {
+      "folderName": "id9433_puncak",
+      "name": "PUNCAK"
+    },
+    {
+      "folderName": "id9434_dogiyai",
+      "name": "DOGIYAI"
+    },
+    {
+      "folderName": "id9435_intan_jaya",
+      "name": "INTAN JAYA"
+    },
+    {
+      "folderName": "id9436_deiyai",
+      "name": "DEIYAI"
+    },
+    {
+      "folderName": "id9471_kota_jayapura",
+      "name": "KOTA JAYAPURA"
+    }
+  ],
+  "hasProvinceFile": true
+}

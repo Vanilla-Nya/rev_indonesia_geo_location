@@ -1,0 +1,37 @@
+{
+  "districts": [
+    {
+      "folderName": "id3601_pandeglang",
+      "name": "PANDEGLANG"
+    },
+    {
+      "folderName": "id3602_lebak",
+      "name": "LEBAK"
+    },
+    {
+      "folderName": "id3603_tangerang",
+      "name": "TANGERANG"
+    },
+    {
+      "folderName": "id3604_serang",
+      "name": "SERANG"
+    },
+    {
+      "folderName": "id3671_kota_tangerang",
+      "name": "KOTA TANGERANG"
+    },
+    {
+      "folderName": "id3672_kota_cilegon",
+      "name": "KOTA CILEGON"
+    },
+    {
+      "folderName": "id3673_kota_serang",
+      "name": "KOTA SERANG"
+    },
+    {
+      "folderName": "id3674_kota_tangerang_selatan",
+      "name": "KOTA TANGERANG SELATAN"
+    }
+  ],
+  "hasProvinceFile": true
+}

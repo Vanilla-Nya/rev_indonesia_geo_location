@@ -1,0 +1,45 @@
+{
+  "districts": [
+    {
+      "folderName": "id1701_bengkulu_selatan",
+      "name": "BENGKULU SELATAN"
+    },
+    {
+      "folderName": "id1702_rejang_lebong",
+      "name": "REJANG LEBONG"
+    },
+    {
+      "folderName": "id1703_bengkulu_utara",
+      "name": "BENGKULU UTARA"
+    },
+    {
+      "folderName": "id1704_kaur",
+      "name": "KAUR"
+    },
+    {
+      "folderName": "id1705_seluma",
+      "name": "SELUMA"
+    },
+    {
+      "folderName": "id1706_mukomuko",
+      "name": "MUKOMUKO"
+    },
+    {
+      "folderName": "id1707_lebong",
+      "name": "LEBONG"
+    },
+    {
+      "folderName": "id1708_kepahiang",
+      "name": "KEPAHIANG"
+    },
+    {
+      "folderName": "id1709_bengkulu_tengah",
+      "name": "BENGKULU TENGAH"
+    },
+    {
+      "folderName": "id1771_kota_bengkulu",
+      "name": "KOTA BENGKULU"
+    }
+  ],
+  "hasProvinceFile": true
+}

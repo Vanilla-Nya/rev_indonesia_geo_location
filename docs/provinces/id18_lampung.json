@@ -1,0 +1,69 @@
+{
+  "districts": [
+    {
+      "folderName": "id1801_lampung_barat",
+      "name": "LAMPUNG BARAT"
+    },
+    {
+      "folderName": "id1802_tanggamus",
+      "name": "TANGGAMUS"
+    },
+    {
+      "folderName": "id1803_lampung_selatan",
+      "name": "LAMPUNG SELATAN"
+    },
+    {
+      "folderName": "id1804_lampung_timur",
+      "name": "LAMPUNG TIMUR"
+    },
+    {
+      "folderName": "id1805_lampung_tengah",
+      "name": "LAMPUNG TENGAH"
+    },
+    {
+      "folderName": "id1806_lampung_utara",
+      "name": "LAMPUNG UTARA"
+    },
+    {
+      "folderName": "id1807_way_kanan",
+      "name": "WAY KANAN"
+    },
+    {
+      "folderName": "id1808_tulangbawang",
+      "name": "TULANGBAWANG"
+    },
+    {
+      "folderName": "id1809_pesawaran",
+      "name": "PESAWARAN"
+    },
+    {
+      "folderName": "id1810_pringsewu",
+      "name": "PRINGSEWU"
+    },
+    {
+      "folderName": "id1811_mesuji",
+      "name": "MESUJI"
+    },
+    {
+      "folderName": "id1812_tulang_bawang_barat",
+      "name": "TULANG BAWANG BARAT"
+    },
+    {
+      "folderName": "id1813_pesisir_barat",
+      "name": "PESISIR BARAT"
+    },
+    {
+      "folderName": "id1871_kota_bandar_lampung",
+      "name": "KOTA BANDAR LAMPUNG"
+    },
+    {
+      "folderName": "id1872_kota_metro",
+      "name": "KOTA METRO"
+    },
+    {
+      "folderName": "id1888_danau",
+      "name": "DANAU"
+    }
+  ],
+  "hasProvinceFile": true
+}

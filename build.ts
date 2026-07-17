@@ -2,7 +2,7 @@ import { readdir, readFile, mkdir, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 
 const DATA_DIR = join(import.meta.dir, "data");
-const DIST_DIR = join(import.meta.dir, "dist");
+const DIST_DIR = join(import.meta.dir, "docs");
 
 // HTML string copied directly from your server template
 const HTML_UI = `

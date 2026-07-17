@@ -1,0 +1,57 @@
+{
+  "districts": [
+    {
+      "folderName": "id6301_tanah_laut",
+      "name": "TANAH LAUT"
+    },
+    {
+      "folderName": "id6302_kota_baru",
+      "name": "KOTA BARU"
+    },
+    {
+      "folderName": "id6303_banjar",
+      "name": "BANJAR"
+    },
+    {
+      "folderName": "id6304_barito_kuala",
+      "name": "BARITO KUALA"
+    },
+    {
+      "folderName": "id6305_tapin",
+      "name": "TAPIN"
+    },
+    {
+      "folderName": "id6306_hulu_sungai_selatan",
+      "name": "HULU SUNGAI SELATAN"
+    },
+    {
+      "folderName": "id6307_hulu_sungai_tengah",
+      "name": "HULU SUNGAI TENGAH"
+    },
+    {
+      "folderName": "id6308_hulu_sungai_utara",
+      "name": "HULU SUNGAI UTARA"
+    },
+    {
+      "folderName": "id6309_tabalong",
+      "name": "TABALONG"
+    },
+    {
+      "folderName": "id6310_tanah_bumbu",
+      "name": "TANAH BUMBU"
+    },
+    {
+      "folderName": "id6311_balangan",
+      "name": "BALANGAN"
+    },
+    {
+      "folderName": "id6371_kota_banjarmasin",
+      "name": "KOTA BANJARMASIN"
+    },
+    {
+      "folderName": "id6372_kota_banjar_baru",
+      "name": "KOTA BANJAR BARU"
+    }
+  ],
+  "hasProvinceFile": true
+}

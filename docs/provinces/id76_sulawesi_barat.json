@@ -1,0 +1,29 @@
+{
+  "districts": [
+    {
+      "folderName": "id7601_majene",
+      "name": "MAJENE"
+    },
+    {
+      "folderName": "id7602_polewali_mandar",
+      "name": "POLEWALI MANDAR"
+    },
+    {
+      "folderName": "id7603_mamasa",
+      "name": "MAMASA"
+    },
+    {
+      "folderName": "id7604_mamuju",
+      "name": "MAMUJU"
+    },
+    {
+      "folderName": "id7605_mamuju_utara",
+      "name": "MAMUJU UTARA"
+    },
+    {
+      "folderName": "id7606_mamuju_tengah",
+      "name": "MAMUJU TENGAH"
+    }
+  ],
+  "hasProvinceFile": true
+}

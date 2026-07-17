@@ -1,0 +1,153 @@
+{
+  "districts": [
+    {
+      "folderName": "id3301_cilacap",
+      "name": "CILACAP"
+    },
+    {
+      "folderName": "id3302_banyumas",
+      "name": "BANYUMAS"
+    },
+    {
+      "folderName": "id3303_purbalingga",
+      "name": "PURBALINGGA"
+    },
+    {
+      "folderName": "id3304_banjarnegara",
+      "name": "BANJARNEGARA"
+    },
+    {
+      "folderName": "id3305_kebumen",
+      "name": "KEBUMEN"
+    },
+    {
+      "folderName": "id3306_purworejo",
+      "name": "PURWOREJO"
+    },
+    {
+      "folderName": "id3307_wonosobo",
+      "name": "WONOSOBO"
+    },
+    {
+      "folderName": "id3308_magelang",
+      "name": "MAGELANG"
+    },
+    {
+      "folderName": "id3309_boyolali",
+      "name": "BOYOLALI"
+    },
+    {
+      "folderName": "id3310_klaten",
+      "name": "KLATEN"
+    },
+    {
+      "folderName": "id3311_sukoharjo",
+      "name": "SUKOHARJO"
+    },
+    {
+      "folderName": "id3312_wonogiri",
+      "name": "WONOGIRI"
+    },
+    {
+      "folderName": "id3313_karanganyar",
+      "name": "KARANGANYAR"
+    },
+    {
+      "folderName": "id3314_sragen",
+      "name": "SRAGEN"
+    },
+    {
+      "folderName": "id3315_grobogan",
+      "name": "GROBOGAN"
+    },
+    {
+      "folderName": "id3316_blora",
+      "name": "BLORA"
+    },
+    {
+      "folderName": "id3317_rembang",
+      "name": "REMBANG"
+    },
+    {
+      "folderName": "id3318_pati",
+      "name": "PATI"
+    },
+    {
+      "folderName": "id3319_kudus",
+      "name": "KUDUS"
+    },
+    {
+      "folderName": "id3320_jepara",
+      "name": "JEPARA"
+    },
+    {
+      "folderName": "id3321_demak",
+      "name": "DEMAK"
+    },
+    {
+      "folderName": "id3322_semarang",
+      "name": "SEMARANG"
+    },
+    {
+      "folderName": "id3323_temanggung",
+      "name": "TEMANGGUNG"
+    },
+    {
+      "folderName": "id3324_kendal",
+      "name": "KENDAL"
+    },
+    {
+      "folderName": "id3325_batang",
+      "name": "BATANG"
+    },
+    {
+      "folderName": "id3326_pekalongan",
+      "name": "PEKALONGAN"
+    },
+    {
+      "folderName": "id3327_pemalang",
+      "name": "PEMALANG"
+    },
+    {
+      "folderName": "id3328_tegal",
+      "name": "TEGAL"
+    },
+    {
+      "folderName": "id3329_brebes",
+      "name": "BREBES"
+    },
+    {
+      "folderName": "id3371_kota_magelang",
+      "name": "KOTA MAGELANG"
+    },
+    {
+      "folderName": "id3372_kota_surakarta",
+      "name": "KOTA SURAKARTA"
+    },
+    {
+      "folderName": "id3373_kota_salatiga",
+      "name": "KOTA SALATIGA"
+    },
+    {
+      "folderName": "id3374_kota_semarang",
+      "name": "KOTA SEMARANG"
+    },
+    {
+      "folderName": "id3375_kota_pekalongan",
+      "name": "KOTA PEKALONGAN"
+    },
+    {
+      "folderName": "id3376_kota_tegal",
+      "name": "KOTA TEGAL"
+    },
+    {
+      "folderName": "id3388_wadung_kedungombo",
+      "name": "WADUNG KEDUNGOMBO"
+    },
+    {
+      "folderName": "id3399_hutan",
+      "name": "HUTAN"
+    }
+  ],
+  "hasProvinceFile": true
+}

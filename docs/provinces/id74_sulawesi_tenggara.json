@@ -1,0 +1,73 @@
+{
+  "districts": [
+    {
+      "folderName": "id7401_buton",
+      "name": "BUTON"
+    },
+    {
+      "folderName": "id7402_muna",
+      "name": "MUNA"
+    },
+    {
+      "folderName": "id7403_konawe",
+      "name": "KONAWE"
+    },
+    {
+      "folderName": "id7404_kolaka",
+      "name": "KOLAKA"
+    },
+    {
+      "folderName": "id7405_konawe_selatan",
+      "name": "KONAWE SELATAN"
+    },
+    {
+      "folderName": "id7406_bombana",
+      "name": "BOMBANA"
+    },
+    {
+      "folderName": "id7407_wakatobi",
+      "name": "WAKATOBI"
+    },
+    {
+      "folderName": "id7408_kolaka_utara",
+      "name": "KOLAKA UTARA"
+    },
+    {
+      "folderName": "id7409_buton_utara",
+      "name": "BUTON UTARA"
+    },
+    {
+      "folderName": "id7410_konawe_utara",
+      "name": "KONAWE UTARA"
+    },
+    {
+      "folderName": "id7411_kolaka_timur",
+      "name": "KOLAKA TIMUR"
+    },
+    {
+      "folderName": "id7412_konawe_kepulauan",
+      "name": "KONAWE KEPULAUAN"
+    },
+    {
+      "folderName": "id7413_muna_barat",
+      "name": "MUNA BARAT"
+    },
+    {
+      "folderName": "id7414_buton_tengah",
+      "name": "BUTON TENGAH"
+    },
+    {
+      "folderName": "id7415_buton_selatan",
+      "name": "BUTON SELATAN"
+    },
+    {
+      "folderName": "id7471_kota_kendari",
+      "name": "KOTA KENDARI"
+    },
+    {
+      "folderName": "id7472_kota_baubau",
+      "name": "KOTA BAUBAU"
+    }
+  ],
+  "hasProvinceFile": true
+}

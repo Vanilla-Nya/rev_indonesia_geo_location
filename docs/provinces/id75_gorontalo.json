@@ -1,0 +1,29 @@
+{
+  "districts": [
+    {
+      "folderName": "id7501_boalemo",
+      "name": "BOALEMO"
+    },
+    {
+      "folderName": "id7502_gorontalo",
+      "name": "GORONTALO"
+    },
+    {
+      "folderName": "id7503_pohuwato",
+      "name": "POHUWATO"
+    },
+    {
+      "folderName": "id7504_bone_bolango",
+      "name": "BONE BOLANGO"
+    },
+    {
+      "folderName": "id7505_gorontalo_utara",
+      "name": "GORONTALO UTARA"
+    },
+    {
+      "folderName": "id7571_kota_gorontalo",
+      "name": "KOTA GORONTALO"
+    }
+  ],
+  "hasProvinceFile": true
+}
