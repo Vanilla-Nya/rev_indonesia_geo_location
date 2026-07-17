@@ -1,0 +1,141 @@
+{
+  "districts": [
+    {
+      "folderName": "id1201_nias",
+      "name": "NIAS"
+    },
+    {
+      "folderName": "id1202_mandailing_natal",
+      "name": "MANDAILING NATAL"
+    },
+    {
+      "folderName": "id1203_tapanuli_selatan",
+      "name": "TAPANULI SELATAN"
+    },
+    {
+      "folderName": "id1204_tapanuli_tengah",
+      "name": "TAPANULI TENGAH"
+    },
+    {
+      "folderName": "id1205_tapanuli_utara",
+      "name": "TAPANULI UTARA"
+    },
+    {
+      "folderName": "id1206_toba_samosir",
+      "name": "TOBA SAMOSIR"
+    },
+    {
+      "folderName": "id1207_labuhan_batu",
+      "name": "LABUHAN BATU"
+    },
+    {
+      "folderName": "id1208_asahan",
+      "name": "ASAHAN"
+    },
+    {
+      "folderName": "id1209_simalungun",
+      "name": "SIMALUNGUN"
+    },
+    {
+      "folderName": "id1210_dairi",
+      "name": "DAIRI"
+    },
+    {
+      "folderName": "id1211_karo",
+      "name": "KARO"
+    },
+    {
+      "folderName": "id1212_deli_serdang",
+      "name": "DELI SERDANG"
+    },
+    {
+      "folderName": "id1213_langkat",
+      "name": "LANGKAT"
+    },
+    {
+      "folderName": "id1214_nias_selatan",
+      "name": "NIAS SELATAN"
+    },
+    {
+      "folderName": "id1215_humbang_hasundutan",
+      "name": "HUMBANG HASUNDUTAN"
+    },
+    {
+      "folderName": "id1216_pakpak_bharat",
+      "name": "PAKPAK BHARAT"
+    },
+    {
+      "folderName": "id1217_samosir",
+      "name": "SAMOSIR"
+    },
+    {
+      "folderName": "id1218_serdang_bedagai",
+      "name": "SERDANG BEDAGAI"
+    },
+    {
+      "folderName": "id1219_batu_bara",
+      "name": "BATU BARA"
+    },
+    {
+      "folderName": "id1220_padang_lawas_utara",
+      "name": "PADANG LAWAS UTARA"
+    },
+    {
+      "folderName": "id1221_padang_lawas",
+      "name": "PADANG LAWAS"
+    },
+    {
+      "folderName": "id1222_labuhan_batu_selatan",
+      "name": "LABUHAN BATU SELATAN"
+    },
+    {
+      "folderName": "id1223_labuhan_batu_utara",
+      "name": "LABUHAN BATU UTARA"
+    },
+    {
+      "folderName": "id1224_nias_utara",
+      "name": "NIAS UTARA"
+    },
+    {
+      "folderName": "id1225_nias_barat",
+      "name": "NIAS BARAT"
+    },
+    {
+      "folderName": "id1271_kota_sibolga",
+      "name": "KOTA SIBOLGA"
+    },
+    {
+      "folderName": "id1272_kota_tanjung_balai",
+      "name": "KOTA TANJUNG BALAI"
+    },
+    {
+      "folderName": "id1273_kota_pematang_siantar",
+      "name": "KOTA PEMATANG SIANTAR"
+    },
+    {
+      "folderName": "id1274_kota_tebing_tinggi",
+      "name": "KOTA TEBING TINGGI"
+    },
+    {
+      "folderName": "id1275_kota_medan",
+      "name": "KOTA MEDAN"
+    },
+    {
+      "folderName": "id1276_kota_binjai",
+      "name": "KOTA BINJAI"
+    },
+    {
+      "folderName": "id1277_kota_padangsidimpuan",
+      "name": "KOTA PADANGSIDIMPUAN"
+    },
+    {
+      "folderName": "id1278_kota_gunungsitoli",
+      "name": "KOTA GUNUNGSITOLI"
+    },
+    {
+      "folderName": "id1288_danau_toba",
+      "name": "DANAU TOBA"
+    }
+  ],
+  "hasProvinceFile": true
+}

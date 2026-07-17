@@ -1,0 +1,138 @@
+[
+  {
+    "folderName": "id11_aceh",
+    "name": "ACEH"
+  },
+  {
+    "folderName": "id12_sumatera_utara",
+    "name": "SUMATERA UTARA"
+  },
+  {
+    "folderName": "id13_sumatera_barat",
+    "name": "SUMATERA BARAT"
+  },
+  {
+    "folderName": "id14_riau",
+    "name": "RIAU"
+  },
+  {
+    "folderName": "id15_jambi",
+    "name": "JAMBI"
+  },
+  {
+    "folderName": "id16_sumatera_selatan",
+    "name": "SUMATERA SELATAN"
+  },
+  {
+    "folderName": "id17_bengkulu",
+    "name": "BENGKULU"
+  },
+  {
+    "folderName": "id18_lampung",
+    "name": "LAMPUNG"
+  },
+  {
+    "folderName": "id19_kepulauan_bangka_belitung",
+    "name": "KEPULAUAN BANGKA BELITUNG"
+  },
+  {
+    "folderName": "id21_kepulauan_riau",
+    "name": "KEPULAUAN RIAU"
+  },
+  {
+    "folderName": "id31_dki_jakarta",
+    "name": "DKI JAKARTA"
+  },
+  {
+    "folderName": "id32_jawa_barat",
+    "name": "JAWA BARAT"
+  },
+  {
+    "folderName": "id33_jawa_tengah",
+    "name": "JAWA TENGAH"
+  },
+  {
+    "folderName": "id34_daerah_istimewa_yogyakarta",
+    "name": "DAERAH ISTIMEWA YOGYAKARTA"
+  },
+  {
+    "folderName": "id35_jawa_timur",
+    "name": "JAWA TIMUR"
+  },
+  {
+    "folderName": "id36_banten",
+    "name": "BANTEN"
+  },
+  {
+    "folderName": "id51_bali",
+    "name": "BALI"
+  },
+  {
+    "folderName": "id52_nusa_tenggara_barat",
+    "name": "NUSA TENGGARA BARAT"
+  },
+  {
+    "folderName": "id53_nusa_tenggara_timur",
+    "name": "NUSA TENGGARA TIMUR"
+  },
+  {
+    "folderName": "id61_kalimantan_barat",
+    "name": "KALIMANTAN BARAT"
+  },
+  {
+    "folderName": "id62_kalimantan_tengah",
+    "name": "KALIMANTAN TENGAH"
+  },
+  {
+    "folderName": "id63_kalimantan_selatan",
+    "name": "KALIMANTAN SELATAN"
+  },
+  {
+    "folderName": "id64_kalimantan_timur",
+    "name": "KALIMANTAN TIMUR"
+  },
+  {
+    "folderName": "id65_kalimantan_utara",
+    "name": "KALIMANTAN UTARA"
+  },
+  {
+    "folderName": "id71_sulawesi_utara",
+    "name": "SULAWESI UTARA"
+  },
+  {
+    "folderName": "id72_sulawesi_tengah",
+    "name": "SULAWESI TENGAH"
+  },
+  {
+    "folderName": "id73_sulawesi_selatan",
+    "name": "SULAWESI SELATAN"
+  },
+  {
+    "folderName": "id74_sulawesi_tenggara",
+    "name": "SULAWESI TENGGARA"
+  },
+  {
+    "folderName": "id75_gorontalo",
+    "name": "GORONTALO"
+  },
+  {
+    "folderName": "id76_sulawesi_barat",
+    "name": "SULAWESI BARAT"
+  },
+  {
+    "folderName": "id81_maluku",
+    "name": "MALUKU"
+  },
+  {
+    "folderName": "id82_maluku_utara",
+    "name": "MALUKU UTARA"
+  },
+  {
+    "folderName": "id91_papua_barat",
+    "name": "PAPUA BARAT"
+  },
+  {
+    "folderName": "id94_papua",
+    "name": "PAPUA"
+  }
+]

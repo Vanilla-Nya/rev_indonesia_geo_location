@@ -1,0 +1,69 @@
+{
+  "districts": [
+    {
+      "folderName": "id7101_bolaang_mongondow",
+      "name": "BOLAANG MONGONDOW"
+    },
+    {
+      "folderName": "id7102_minahasa",
+      "name": "MINAHASA"
+    },
+    {
+      "folderName": "id7103_kepulauan_sangihe",
+      "name": "KEPULAUAN SANGIHE"
+    },
+    {
+      "folderName": "id7104_kepulauan_talaud",
+      "name": "KEPULAUAN TALAUD"
+    },
+    {
+      "folderName": "id7105_minahasa_selatan",
+      "name": "MINAHASA SELATAN"
+    },
+    {
+      "folderName": "id7106_minahasa_utara",
+      "name": "MINAHASA UTARA"
+    },
+    {
+      "folderName": "id7107_bolaang_mongondow_utara",
+      "name": "BOLAANG MONGONDOW UTARA"
+    },
+    {
+      "folderName": "id7108_siau_tagulandang_biaro",
+      "name": "SIAU TAGULANDANG BIARO"
+    },
+    {
+      "folderName": "id7109_minahasa_tenggara",
+      "name": "MINAHASA TENGGARA"
+    },
+    {
+      "folderName": "id7110_bolaang_mongondow_selatan",
+      "name": "BOLAANG MONGONDOW SELATAN"
+    },
+    {
+      "folderName": "id7111_bolaang_mongondow_timur",
+      "name": "BOLAANG MONGONDOW TIMUR"
+    },
+    {
+      "folderName": "id7171_kota_manado",
+      "name": "KOTA MANADO"
+    },
+    {
+      "folderName": "id7172_kota_bitung",
+      "name": "KOTA BITUNG"
+    },
+    {
+      "folderName": "id7173_kota_tomohon",
+      "name": "KOTA TOMOHON"
+    },
+    {
+      "folderName": "id7174_kota_kotamobagu",
+      "name": "KOTA KOTAMOBAGU"
+    },
+    {
+      "folderName": "id7188_danau",
+      "name": "DANAU"
+    }
+  ],
+  "hasProvinceFile": true
+}

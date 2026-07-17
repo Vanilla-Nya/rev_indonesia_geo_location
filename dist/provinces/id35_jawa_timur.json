@@ -1,0 +1,157 @@
+{
+  "districts": [
+    {
+      "folderName": "id3501_pacitan",
+      "name": "PACITAN"
+    },
+    {
+      "folderName": "id3502_ponorogo",
+      "name": "PONOROGO"
+    },
+    {
+      "folderName": "id3503_trenggalek",
+      "name": "TRENGGALEK"
+    },
+    {
+      "folderName": "id3504_tulungagung",
+      "name": "TULUNGAGUNG"
+    },
+    {
+      "folderName": "id3505_blitar",
+      "name": "BLITAR"
+    },
+    {
+      "folderName": "id3506_kediri",
+      "name": "KEDIRI"
+    },
+    {
+      "folderName": "id3507_malang",
+      "name": "MALANG"
+    },
+    {
+      "folderName": "id3508_lumajang",
+      "name": "LUMAJANG"
+    },
+    {
+      "folderName": "id3509_jember",
+      "name": "JEMBER"
+    },
+    {
+      "folderName": "id3510_banyuwangi",
+      "name": "BANYUWANGI"
+    },
+    {
+      "folderName": "id3511_bondowoso",
+      "name": "BONDOWOSO"
+    },
+    {
+      "folderName": "id3512_situbondo",
+      "name": "SITUBONDO"
+    },
+    {
+      "folderName": "id3513_probolinggo",
+      "name": "PROBOLINGGO"
+    },
+    {
+      "folderName": "id3514_pasuruan",
+      "name": "PASURUAN"
+    },
+    {
+      "folderName": "id3515_sidoarjo",
+      "name": "SIDOARJO"
+    },
+    {
+      "folderName": "id3516_mojokerto",
+      "name": "MOJOKERTO"
+    },
+    {
+      "folderName": "id3517_jombang",
+      "name": "JOMBANG"
+    },
+    {
+      "folderName": "id3518_nganjuk",
+      "name": "NGANJUK"
+    },
+    {
+      "folderName": "id3519_madiun",
+      "name": "MADIUN"
+    },
+    {
+      "folderName": "id3520_magetan",
+      "name": "MAGETAN"
+    },
+    {
+      "folderName": "id3521_ngawi",
+      "name": "NGAWI"
+    },
+    {
+      "folderName": "id3522_bojonegoro",
+      "name": "BOJONEGORO"
+    },
+    {
+      "folderName": "id3523_tuban",
+      "name": "TUBAN"
+    },
+    {
+      "folderName": "id3524_lamongan",
+      "name": "LAMONGAN"
+    },
+    {
+      "folderName": "id3525_gresik",
+      "name": "GRESIK"
+    },
+    {
+      "folderName": "id3526_bangkalan",
+      "name": "BANGKALAN"
+    },
+    {
+      "folderName": "id3527_sampang",
+      "name": "SAMPANG"
+    },
+    {
+      "folderName": "id3528_pamekasan",
+      "name": "PAMEKASAN"
+    },
+    {
+      "folderName": "id3529_sumenep",
+      "name": "SUMENEP"
+    },
+    {
+      "folderName": "id3571_kota_kediri",
+      "name": "KOTA KEDIRI"
+    },
+    {
+      "folderName": "id3572_kota_blitar",
+      "name": "KOTA BLITAR"
+    },
+    {
+      "folderName": "id3573_kota_malang",
+      "name": "KOTA MALANG"
+    },
+    {
+      "folderName": "id3574_kota_probolinggo",
+      "name": "KOTA PROBOLINGGO"
+    },
+    {
+      "folderName": "id3575_kota_pasuruan",
+      "name": "KOTA PASURUAN"
+    },
+    {
+      "folderName": "id3576_kota_mojokerto",
+      "name": "KOTA MOJOKERTO"
+    },
+    {
+      "folderName": "id3577_kota_madiun",
+      "name": "KOTA MADIUN"
+    },
+    {
+      "folderName": "id3578_kota_surabaya",
+      "name": "KOTA SURABAYA"
+    },
+    {
+      "folderName": "id3579_kota_batu",
+      "name": "KOTA BATU"
+    }
+  ],
+  "hasProvinceFile": true
+}

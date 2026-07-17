@@ -1,0 +1,61 @@
+{
+  "districts": [
+    {
+      "folderName": "id6201_kotawaringin_barat",
+      "name": "KOTAWARINGIN BARAT"
+    },
+    {
+      "folderName": "id6202_kotawaringin_timur",
+      "name": "KOTAWARINGIN TIMUR"
+    },
+    {
+      "folderName": "id6203_kapuas",
+      "name": "KAPUAS"
+    },
+    {
+      "folderName": "id6204_barito_selatan",
+      "name": "BARITO SELATAN"
+    },
+    {
+      "folderName": "id6205_barito_utara",
+      "name": "BARITO UTARA"
+    },
+    {
+      "folderName": "id6206_sukamara",
+      "name": "SUKAMARA"
+    },
+    {
+      "folderName": "id6207_lamandau",
+      "name": "LAMANDAU"
+    },
+    {
+      "folderName": "id6208_seruyan",
+      "name": "SERUYAN"
+    },
+    {
+      "folderName": "id6209_katingan",
+      "name": "KATINGAN"
+    },
+    {
+      "folderName": "id6210_pulang_pisau",
+      "name": "PULANG PISAU"
+    },
+    {
+      "folderName": "id6211_gunung_mas",
+      "name": "GUNUNG MAS"
+    },
+    {
+      "folderName": "id6212_barito_timur",
+      "name": "BARITO TIMUR"
+    },
+    {
+      "folderName": "id6213_murung_raya",
+      "name": "MURUNG RAYA"
+    },
+    {
+      "folderName": "id6271_kota_palangka_raya",
+      "name": "KOTA PALANGKA RAYA"
+    }
+  ],
+  "hasProvinceFile": true
+}

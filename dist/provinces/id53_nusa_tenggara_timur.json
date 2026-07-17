@@ -1,0 +1,93 @@
+{
+  "districts": [
+    {
+      "folderName": "id5301_sumba_barat",
+      "name": "SUMBA BARAT"
+    },
+    {
+      "folderName": "id5302_sumba_timur",
+      "name": "SUMBA TIMUR"
+    },
+    {
+      "folderName": "id5303_kupang",
+      "name": "KUPANG"
+    },
+    {
+      "folderName": "id5304_timor_tengah_selatan",
+      "name": "TIMOR TENGAH SELATAN"
+    },
+    {
+      "folderName": "id5305_timor_tengah_utara",
+      "name": "TIMOR TENGAH UTARA"
+    },
+    {
+      "folderName": "id5306_belu",
+      "name": "BELU"
+    },
+    {
+      "folderName": "id5307_alor",
+      "name": "ALOR"
+    },
+    {
+      "folderName": "id5308_lembata",
+      "name": "LEMBATA"
+    },
+    {
+      "folderName": "id5309_flores_timur",
+      "name": "FLORES TIMUR"
+    },
+    {
+      "folderName": "id5310_sikka",
+      "name": "SIKKA"
+    },
+    {
+      "folderName": "id5311_ende",
+      "name": "ENDE"
+    },
+    {
+      "folderName": "id5312_ngada",
+      "name": "NGADA"
+    },
+    {
+      "folderName": "id5313_manggarai",
+      "name": "MANGGARAI"
+    },
+    {
+      "folderName": "id5314_rote_ndao",
+      "name": "ROTE NDAO"
+    },
+    {
+      "folderName": "id5315_manggarai_barat",
+      "name": "MANGGARAI BARAT"
+    },
+    {
+      "folderName": "id5316_sumba_tengah",
+      "name": "SUMBA TENGAH"
+    },
+    {
+      "folderName": "id5317_sumba_barat_daya",
+      "name": "SUMBA BARAT DAYA"
+    },
+    {
+      "folderName": "id5318_nagekeo",
+      "name": "NAGEKEO"
+    },
+    {
+      "folderName": "id5319_manggarai_timur",
+      "name": "MANGGARAI TIMUR"
+    },
+    {
+      "folderName": "id5320_sabu_raijua",
+      "name": "SABU RAIJUA"
+    },
+    {
+      "folderName": "id5321_malaka",
+      "name": "MALAKA"
+    },
+    {
+      "folderName": "id5371_kota_kupang",
+      "name": "KOTA KUPANG"
+    }
+  ],
+  "hasProvinceFile": true
+}

@@ -1,0 +1,25 @@
+{
+  "districts": [
+    {
+      "folderName": "id3401_kulon_progo",
+      "name": "KULON PROGO"
+    },
+    {
+      "folderName": "id3402_bantul",
+      "name": "BANTUL"
+    },
+    {
+      "folderName": "id3403_gunung_kidul",
+      "name": "GUNUNG KIDUL"
+    },
+    {
+      "folderName": "id3404_sleman",
+      "name": "SLEMAN"
+    },
+    {
+      "folderName": "id3471_kota_yogyakarta",
+      "name": "KOTA YOGYAKARTA"
+    }
+  ],
+  "hasProvinceFile": true
+}
